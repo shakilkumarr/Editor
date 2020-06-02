@@ -1,0 +1,23 @@
+{
+  "name": "editor",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "next dev",
+    "build": "next build",
+    "prod": "next start"
+  },
+  "dependencies": {
+    "@monaco-editor/react": "^3.3.1",
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^4.3.1",
+    "codemirror": "^5.54.0",
+    "lodash": "^4.17.15",
+    "next": "9.4.2",
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-select": "^3.1.0",
+    "styled-components": "^5.1.1"
+  }
+}

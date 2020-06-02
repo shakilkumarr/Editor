@@ -1,0 +1,21 @@
+# Don't check-in auto-generated stuff into git
+coverage
+build
+node_modules
+stats.json
+dist
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+.vscode
+.next
+
+yarn-error.log
+package-lock.json
+events.json
+lerna-debug.log
+yarn.lock
+
+.env
